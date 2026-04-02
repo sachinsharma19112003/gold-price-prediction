@@ -127,7 +127,7 @@ joblib
 
 ---
 
-## 📞 Contact
+## Authore
 
 Created by **Sachin Sharma** – Data Scientist 
 GitHub: [https://github.com/sachinsharma19112003/gold-price-prediction]
