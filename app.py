@@ -6,8 +6,8 @@ import pandas as pd
 # ------------------------------
 # Load trained model and scaler
 # ------------------------------
-model = joblib.load(r"C:\Users\sachi\Desktop\gold price prediction\gold_model.pkl")
-scaler = joblib.load(r"C:\Users\sachi\Desktop\gold price prediction\scaler.pkl")
+model = joblib.load("gold_model.pkl")
+scaler = joblib.load("scaler.pkl")
 
 # ------------------------------
 # Streamlit App
